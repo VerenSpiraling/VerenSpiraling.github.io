@@ -12,8 +12,4 @@
     <loc>http://example.com/2020/12/05/blog_1/</loc>
     <lastmod>2020-12-06</lastmod>
   </url>
-  <url>
-    <loc>http://example.com/2020/12/06/test/</loc>
-    <lastmod>2020-12-06</lastmod>
-  </url>
 </urlset> 
